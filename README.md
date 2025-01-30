@@ -49,11 +49,11 @@ The hash function is **designed to efficiently hash words** by considering:
 ## 🛠 How to Build
 ```bash
 mingw32-make
-
+```
 ## 🏃 How to Run
-bash
+```bash
 ./hash_function.exe
-
+```
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 

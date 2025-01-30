@@ -3,7 +3,8 @@
 This project implements a custom **hash function** optimized for word-based hashing using probability distributions.
 
 ## 📂 Project Structure
-
+```
+.
 hash_function_project/
 ├── src/
 │   ├── hash_function.c
@@ -14,7 +15,8 @@ hash_function_project/
 │   ├── test_hash_function.c
 ├── Makefile
 └── README.md
-
+3 directories, 6 files
+```
 ## 🚀 Features
 - Efficient hashing based on **word length** and **letter frequency**.
 - The statistics are taken from https://norvig.com/mayzner.html and https://en.wikipedia.org/wiki/Letter_frequency.

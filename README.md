@@ -11,8 +11,6 @@ hash_function_project/
 │   ├── main.c
 ├── include/
 │   ├── hash_function.h
-├── tests/
-│   ├── test_hash_function.c
 ├── Makefile
 └── README.md
 3 directories, 6 files

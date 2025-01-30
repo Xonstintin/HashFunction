@@ -13,7 +13,7 @@ hash_function_project/
 │   ├── hash_function.h
 ├── Makefile
 └── README.md
-3 directories, 6 files
+2 directories, 5 files
 ```
 ## 🚀 Features
 - Efficient hashing based on **word length** and **letter frequency**.
